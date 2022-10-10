@@ -10,7 +10,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=d123)](https://solved.ac/d123/)
 
 
-
 <b>  Commit  </b> <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cho123456789)](https://github.com/anuraghazra/github-readme-stats)
