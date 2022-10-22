@@ -4,7 +4,7 @@
 ⁍ 2022 09 ~ 2023 01 Hustar ICT 6기 교육생  <br>
 
 
-
+<Blog> (https://www.notion.so/cho-Hyung-Seok-ff074d2da80a48e7a06cb057634f6b1e)
 <b>💪 My Skill </b> <br>
 <b> Skill & Languages </b> <br>
 
