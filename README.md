@@ -16,6 +16,6 @@
 <b>  Baekjoon </b> <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=d123)](https://solved.ac/d123/)
 
-
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cho123456789)](https://github.com/anuraghazra/github-readme-stats)
