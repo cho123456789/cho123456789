@@ -4,7 +4,7 @@
 ⁍ 2022 09 ~ 2023 01 Hustar ICT 6기 교육생  <br>
 
 
-<b> 🛀 My_blog </b> [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://laser-zinc-624.notion.site/cho-Hyung-Seok-ff074d2da80a48e7a06cb057634f6b1e) 
+<b> 🛀 My_blog click -> </b> [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://laser-zinc-624.notion.site/cho-Hyung-Seok-ff074d2da80a48e7a06cb057634f6b1e) 
 
 <p>
 <b>💪 My Skill </b> <br>
