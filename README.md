@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World&fontSize=90" />
 
-⁍ 2016 02 ~ 2022 02 계명대학교 컴퓨터공학과 및 스마트모바일 학과 졸업 <br>
+⁍ 2016 02 ~ 2022 02 계명대학교 컴퓨터공학과 & 스마트모바일 학과 졸업 <br>
 ⁍ 2022 09 ~ 2023 01 Hustar ICT 6기 교육생  <br>
+⁍ 2024 06 ~ 2024 12 IM Bank Digital Banker Academy 1기 <br>
 
 
 <b> 🛀 My_blog click -> </b> [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://laser-zinc-624.notion.site/cho-Hyung-Seok-ff074d2da80a48e7a06cb057634f6b1e) 
