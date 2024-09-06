@@ -26,4 +26,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cho123456789)](https://github.com/anuraghazra/github-readme-stats)
 
-
+| 년도|프로젝트명| 깃허브링크 |
+| -- | --- | ----|
+|2023| 신용등급| [링크](www.naver.com)|
+|2024| 대출여부 | [링크](www.naver.com)|
