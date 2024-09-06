@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World&fontSize=90" />
 
-| 년도|프로젝트명| 깃허브링크 |
-| -- | --- | ----|
-|2023| 신용등급| [링크](www.naver.com)|
-|2024| 대출여부 | [링크](www.naver.com)|
 
 ⁍ 2016 02 ~ 2022 02 계명대학교 컴퓨터공학과 & 스마트모바일 학과 졸업 <br>
 ⁍ 2022 09 ~ 2023 01 Hustar ICT 6기 교육생  <br>
