@@ -5,12 +5,6 @@
 ⁍ 2022 09 ~ 2023 01 Hustar ICT 6기 교육생  <br>
 ⁍ 2024 06 ~ 2024 12 IM Bank Digital Banker Academy 1기 <br>
 
-| 년도|프로젝트명| 깃허브링크 |
-| -- | --- | ----|
-|2020.09 ~ 2021.11| 실내추적 비콘 | [링크](https://github.com/cho123456789/Beacon-Android)|
-|2022.09 ~ 2022.11| 도서훼손 프로젝트 | [링크](https://github.com/cho123456789/Hustar-BMK-Android)|
-|2022.12 ~ 2023.01| 미아방지 프로젝트 | [링크](https://github.com/cho123456789/hustar12_GoldTime)|
-
 
 <b> 🛀 My_blog click -> </b> [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://laser-zinc-624.notion.site/cho-Hyung-Seok-ff074d2da80a48e7a06cb057634f6b1e) 
 
