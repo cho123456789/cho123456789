@@ -13,19 +13,17 @@
 | 미아방지 프로젝트   | 2022.12~2023.01   | [Golden_Time](https://github.com/cho123456789/Hustar6_Golden_Time)    |
 |  |  |  |
 
-<b> 🛀 My_blog click -> </b> [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://laser-zinc-624.notion.site/cho-Hyung-Seok-ff074d2da80a48e7a06cb057634f6b1e) 
+## 🛀 My Notion
+</b> [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://laser-zinc-624.notion.site/cho-Hyung-Seok-ff074d2da80a48e7a06cb057634f6b1e) 
 
-<p>
-<b>💪 My Skill </b> <br>
+## 💪 My Skill </b> <br>
 <b> Skill & Languages </b> <br>
-</p>
-
 <p>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Python-0000ff?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LabView-ffD400?style=flat-square&logo=labview&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-8977AD?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
 
-<b> 👍 Coding Skill </b> <br>
+## 👍 Coding Skill
 <b>  Baekjoon </b> <br> 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=d123">
 <b>
