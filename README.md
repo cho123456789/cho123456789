@@ -2,8 +2,8 @@
 
 
 ⁍ 2016 02 ~ 2022 02 계명대학교 컴퓨터공학과 & 스마트모바일 학과 졸업 <br>
-⁍ 2022 09 ~ 2023 01 Hustar ICT 6기 교육생  <br>
-⁍ 2024 06 ~ 2024 12 IM Bank Digital Banker Academy 1기 <br>
+⁍ 2022 09 ~ 2023 01 Hustar ICT 6기 교육수료  <br>
+⁍ 2024 06 ~ 2024 12 IM Bank Digital Banker Academy 1기 교육생 <br>
 
 
 ## 🎆 Project (Android)
