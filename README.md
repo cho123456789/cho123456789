@@ -18,8 +18,6 @@
 </b> [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://laser-zinc-624.notion.site/cho-Hyung-Seok-ff074d2da80a48e7a06cb057634f6b1e) 
 
 ## 💪 My Skill </b> <br>
-<b> Skill & Languages </b> <br>
-<p>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Python-0000ff?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LabView-ffD400?style=flat-square&logo=labview&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-8977AD?style=flat-square&logo=mysql&logoColor=white"/>
 
 </p>
