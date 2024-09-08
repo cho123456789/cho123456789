@@ -9,9 +9,9 @@
 ## 🎆 Project (Android)
 | 이름       | 기간      | 링크              |
 |------------|-----------|-------------------|
-| 도서훼손감지프로젝트     | 2022.10~2022.11    | [BMK](https://github.com/cho123456789/Hustar-BMK-Android) |
-| 미아방지프로젝트   | 2022.12~2023.01   | 이메일 인증 필요    |
-| 데이터 분석 | 예정      | 데이터 시각화 도구 추가 예정 |
+| 도서훼손감지 프로젝트     | 2022.10~2022.11    | [BMK](https://github.com/cho123456789/Hustar-BMK-Android) |
+| 미아방지 프로젝트   | 2022.12~2023.01   | [Golden_Time](https://github.com/cho123456789/Hustar6_Golden_Time)    |
+|  |  |  |
 
 <b> 🛀 My_blog click -> </b> [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://laser-zinc-624.notion.site/cho-Hyung-Seok-ff074d2da80a48e7a06cb057634f6b1e) 
 
