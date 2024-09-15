@@ -14,6 +14,13 @@
 | 미아방지 프로젝트   | 2022.12~2023.01   | [Golden_Time](https://github.com/cho123456789/Hustar6_Golden_Time)    |
 |  |  |  |
 
+## 📊 Project (Data)
+| 이름       | 기간      | 링크              |
+|------------|-----------|-------------------|
+| [프로젝트1] | [기간1]   | [링크1]           |
+| [프로젝트2] | [기간2]   | [링크2]           |
+| [프로젝트3] | [기간3]   | [링크3]           |
+
 ## 🛀 My Notion
 </b> [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://laser-zinc-624.notion.site/cho-Hyung-Seok-ff074d2da80a48e7a06cb057634f6b1e) 
 
