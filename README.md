@@ -24,3 +24,4 @@
 | Iot 모니터링 (토이프로젝트)     | 2022.03~2022.04    | [IoT](https://github.com/cho123456789/IoT_Monitoring-Android/blob/master/README.md) | 
 | 도서훼손감지 프로젝트     | 2022.10~2022.11    | [BMK](https://github.com/cho123456789/Hustar-BMK-Android) |
 | 미아방지 프로젝트   | 2022.12~2023.01   | [Golden_Time](https://github.com/cho123456789/Hustar6_Golden_Time)    |
+| DNF 캐릭터정보 조회   | 2024.05~   | [DNF](https://github.com/cho123456789/Hustar6_Golden_Time)    |
