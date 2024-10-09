@@ -6,7 +6,7 @@
 <span>
   <h3 align="center"> 🐣 Contact Me 🐣 </h3>
   <p>
-    <a href="YOUR_LINK_HERE" style="display: inline-block;">
+    <a href="[YOUR_LINK_HERE](https://laser-zinc-624.notion.site/ff074d2da80a48e7a06cb057634f6b1e)" style="display: inline-block;">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion" />
     </a>
   </p>
