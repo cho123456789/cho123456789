@@ -17,7 +17,7 @@
 
 ## 👩‍🎓 Education
 
-⁍ 계명대학교 <mark><b>컴퓨터공학과 & 스마트모바일</b> 학과 </mark> 졸업 (2016 02 ~ 2022 02) <br>
+⁍ 계명대학교 <mark><b>컴퓨터공학과 & 스마트모바일</b></mark> 학과 졸업 (2016 02 ~ 2022 02) <br>
 ⁍ <mark><b>Hustar ICT Academy 6기</b></mark> 교육생 (2022 09 ~ 2023 01) <br>
 ⁍ <mark><b>IM Bank Digital Banker Academy 1기</b></mark> 교육생 (2024 06 ~ 2024 12) <br>
 
