@@ -12,11 +12,6 @@
   </p>
 </span>
 
-## 👩‍🎓 Education
-⁍ 2016 02 ~ 2022 02 계명대학교 <b> 컴퓨터공학과 & 스마트모바일</b> 학과 졸업 <br>
-⁍ 2022 09 ~ 2023 01 <b> Hustar ICT Academy 6기</b> 교육생  <br>
-⁍ 2024 06 ~ 2024 12 <b> IM Bank Digital Banker Academy 1기</b> 교육생 <br>
-
 
 ## 🎆 Project (Android)
 | 이름       | 기간      | 링크              |
@@ -25,3 +20,13 @@
 | 도서훼손감지 프로젝트     | 2022.10~2022.11    | [BMK](https://github.com/cho123456789/Hustar-BMK-Android) |
 | 미아방지 프로젝트   | 2022.12~2023.01   | [Golden_Time](https://github.com/cho123456789/Hustar6_Golden_Time)    |
 | DNF 캐릭터정보 조회 (토이프로젝트)   | 2024.05~   | [DNF](https://github.com/cho123456789/NeopleProject/tree/clean_%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)    |
+
+<div align="left">
+
+## 👩‍🎓 Education
+
+⁍ 계명대학교 <mark><b>컴퓨터공학과 & 스마트모바일</b> 학과 </mark> 졸업 (2016 02 ~ 2022 02) <br>
+⁍ <mark><b>Hustar ICT Academy 6기</b></mark> 교육생 (2022 09 ~ 2023 01) <br>
+⁍ <mark><b>IM Bank Digital Banker Academy 1기</b></mark> 교육생 (2024 06 ~ 2024 12) <br>
+
+</div>
