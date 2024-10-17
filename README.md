@@ -27,14 +27,14 @@
 
  ## 🏆 Certification 
  
-<mark><b>SQL Developer</b></mark> 🏅 (2024년 04월 05일)<br> 
-<mark><b>정보처리기사 🏅</b></mark> (2023년 09월 01일)<br>
-<mark><b>Certified LabVIEW Developer 🏅</b></mark> (2022년 02월 15일)<br>
-<mark><b>자동차운전면허 1종 보통 🚗</b></mark> (2019년 09월 04일)<br>
-<mark><b>OA Master 🏅</b></mark> (2016년 04월 11일)<br>
-<mark><b>컴퓨터활용능력 2급 🥈</b></mark> (2015년 10월 09일)<br>
-<mark><b>전자기기 기능사 🥈</b></mark> (2015년 05월 06일)<br>
-<mark><b>정보처리 기능사 🥈</b></mark> (2015년 02월 05일)<br>
+⁍ <mark><b>SQL Developer</b></mark> 🏅 (2024년 04월 05일)<br> 
+⁍ <mark><b>정보처리기사 🏅</b></mark> (2023년 09월 01일)<br>
+⁍ <mark><b>Certified LabVIEW Developer 🏅</b></mark> (2022년 02월 15일)<br>
+⁍ <mark><b>자동차운전면허 1종 보통 🚗</b></mark> (2019년 09월 04일)<br>
+⁍ <mark><b>OA Master 🏅</b></mark> (2016년 04월 11일)<br>
+⁍ <mark><b>컴퓨터활용능력 2급 🥈</b></mark> (2015년 10월 09일)<br>
+⁍ <mark><b>전자기기 기능사 🥈</b></mark> (2015년 05월 06일)<br>
+⁍ <mark><b>정보처리 기능사 🥈</b></mark> (2015년 02월 05일)<br>
 
 </div>
 
