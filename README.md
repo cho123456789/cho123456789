@@ -3,8 +3,7 @@
   <span> <img src = "https://img.shields.io/badge/Java-007396?&logo=java&logoColor=white"> <img src = "https://img.shields.io/badge/Kotlin-4A148C?logo=Kotlin&logoColor=7F52FF"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>  <img src = "https://img.shields.io/badge/DataBase-MySQL-blue?logo=MySQL&logoColor=blue"> 
 
-<div align="left">
-  
+
 ## 🎆 Project (Android)
 | 이름       | 기간      | 링크              |
 |------------|-----------|-------------------|
@@ -12,7 +11,8 @@
 | 도서훼손감지 프로젝트     | 2022.10~2022.11    | [BMK](https://github.com/cho123456789/Hustar-BMK-Android) |
 | 미아방지 프로젝트   | 2022.12~2023.01   | [Golden_Time](https://github.com/cho123456789/Hustar6_Golden_Time)    |
 | DNF 캐릭터정보 조회 (토이프로젝트)   | 2024.05~   | [DNF](https://github.com/cho123456789/NeopleProject/tree/clean_%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)    |
-</div>
+
+
 <div align="left">
 
 ## 👩‍🎓 Education
