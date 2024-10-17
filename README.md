@@ -25,7 +25,7 @@
 
 <div align="left">
 
- ## 🏆 Certification 
+ ## 🎖 Certification 
  
 ⁍ <mark><b>SQL Developer</b></mark> 🏅 (2024년 04월 05일)<br> 
 ⁍ <mark><b>정보처리기사 🏅</b></mark> (2023년 09월 01일)<br>
