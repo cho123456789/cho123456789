@@ -39,7 +39,7 @@
 <div align="left">
 
  ## 🎖 Certification 
- 
+ ⁍ <mark><b>빅데이터 분석기사</b></mark> 🏅 (2025년 07월 20일)<br>
 ⁍ <mark><b>SQL Developer</b></mark> 🏅 (2024년 04월 05일)<br> 
 ⁍ <mark><b>정보처리기사 🏅</b></mark> (2023년 09월 01일)<br>
 ⁍ <mark><b>Certified LabVIEW Developer 🏅</b></mark> (2022년 02월 15일)<br>
