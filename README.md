@@ -16,52 +16,6 @@
 -----------------------------
 </div>
 
-## 🎆 Project (Android)
-| 이름       | 기간      | 링크              |
-|------------|-----------|-------------------|
-| Iot 모니터링 (토이프로젝트)     | 2022.03~2022.04    | [IoT](https://github.com/cho123456789/IoT_Monitoring-Android/blob/master/README.md) | 
-| 도서훼손감지 프로젝트 (교육)    | 2022.10~2022.11    | [BMK](https://github.com/cho123456789/Hustar-BMK-Android) |
-| 미아방지 프로젝트  (교육)  | 2022.12~2023.01   | [Golden_Time](https://github.com/cho123456789/Hustar6_Golden_Time)    |
-| 악성앱 탐지 프로젝트 (실무)  | 2023.02 ~2024.01   | [Ycallme](https://play.google.com/store/search?q=%EC%99%80%EC%9D%B4%EC%BD%9C%EB%AF%B8&c=apps)    |
-| DNF 캐릭터정보 조회 (토이프로젝트)   | 2024.05~ 2024.10 | [DNF](https://github.com/cho123456789/NeopleProject/tree/clean_%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)    |
-
-
-<div align="left">
-
-## 👩‍🎓 Education
-
-⁍ 계명대학교 <mark><b>컴퓨터공학과 & 스마트모바일</b></mark> 학과 졸업 (2016 02 ~ 2022 02) <br>
-⁍ <mark><b>Hustar ICT Academy 6기</b></mark> 교육생 (2022 09 ~ 2023 01) <br>
-⁍ <mark><b>IM Bank Digital Banker Academy 1기</b></mark> 교육생 (2024 06 ~ 2024 12) <br>
-
-</div>
-
-<div align="left">
-
- ## 🎖 Certification 
- ⁍ <mark><b>빅데이터 분석기사</b></mark> 🏅 (2025년 07월 20일)<br>
-⁍ <mark><b>SQL Developer</b></mark> 🏅 (2024년 04월 05일)<br> 
-⁍ <mark><b>정보처리기사 🏅</b></mark> (2023년 09월 01일)<br>
-⁍ <mark><b>Certified LabVIEW Developer 🏅</b></mark> (2022년 02월 15일)<br>
-⁍ <mark><b>자동차운전면허 1종 보통 🚗</b></mark> (2019년 09월 04일)<br>
-⁍ <mark><b>OA Master 🏅</b></mark> (2016년 04월 11일)<br>
-⁍ <mark><b>컴퓨터활용능력 2급 🥈</b></mark> (2015년 10월 09일)<br>
-⁍ <mark><b>전자기기 기능사 🥈</b></mark> (2015년 05월 06일)<br>
-⁍ <mark><b>정보처리 기능사 🥈</b></mark> (2015년 02월 05일)<br>
-
-</div>
-
-<div align="left">
-  
- ## 🎖 Awards
- 
-| **이름**                                         | **날짜**          | **수상**   |
-|-------------------------------------------------|------------------|------------|
-| 제2회 계명 캠퍼스 리빙랩 아이디어톤               | 2020년 11월 25일 | 최우수상 🏅  | 
-| 제3회 계명 캠퍼스 리빙랩 아이디어톤               | 2021년 06월 03일 | 우수상 🥈   |
-| 계명대학교 캡스톤 디자인 UCC                     | 2021년 8월 06일  | 우수상 🥈   |
-| 4차 산업혁명 인재양성 연합 페스티벌              | 2021년 11월 26일 | 장려상 🥉   |
-
 </div>
 
 <div align="center">
