@@ -17,4 +17,5 @@
 
 <div align="center">
 <h3 align="center"> 📌 Teck Stack 📌</h3>
-  <span> <img src = "https://img.shields.io/badge/Java-007396?&logo=java&logoColor=white"> <img src = "https://img.shields.io/badge/Kotlin-4A148C?logo=Kotlin&logoColor=7F52FF"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> 
+  <span> <img src = "https://img.shields.io/badge/Java-007396?&logo=java&logoColor=white"> <img src = "https://img.shields.io/badge/Kotlin-4A148C?logo=Kotlin&logoColor=7F52FF"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Platform-Flutter-3E8EDE?style=flat-square&logo=android&logoColor=white"/>
+
