@@ -24,8 +24,7 @@ Kotlin, Java, Flutter를 활용하여 플랫폼에 구애받지 않는 최적의
 여러분의 프로젝트에 긍정적인 에너지를 더할 준비가 되어 있습니다! 🎈
 
 ---
+📫 **Blog**
+개발 블로그 : [(Tistory)](https://dkdkdo123.tistory.com/) <br>
 
 </div>
-📫 **Contact & Blog**
-* **Blog:** [나의 개발 기록 (Tistory)](https://dkdkdo123.tistory.com/)
-* **GitHub:** [github.com/cho123456789](https://github.com/cho123456789)
