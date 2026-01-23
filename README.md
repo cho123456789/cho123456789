@@ -26,4 +26,6 @@ Kotlin, Java, Flutter를 활용하여 플랫폼에 구애받지 않는 최적의
 ---
 
 </div>
-
+📫 **Contact & Blog**
+* **Blog:** [나의 개발 기록 (Tistory)](https://dkdkdo123.tistory.com/)
+* **GitHub:** [github.com/cho123456789](https://github.com/cho123456789)
